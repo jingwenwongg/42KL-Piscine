@@ -4,6 +4,6 @@ This repository contains the projects I completed during the 42 Kuala Lumpur pis
 
 ## Projects
 
-* C modules (C00 - C04)
+* C modules
 * Shell projects
 * Rush projects
